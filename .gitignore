@@ -6,3 +6,5 @@ examples/selfie.jpeg
 examples/vendor
 examples/*.pem
 examples/keys/*.pem
+config.bat
+node_modules
